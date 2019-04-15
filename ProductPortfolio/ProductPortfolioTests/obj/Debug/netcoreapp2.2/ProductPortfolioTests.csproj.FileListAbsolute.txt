@@ -1,0 +1,17 @@
+C:\Users\nlangridge\source\repos\ProductPortfolioTests\obj\Debug\netcoreapp2.2\ProductPortfolioTests.csprojAssemblyReference.cache
+C:\Users\nlangridge\source\repos\ProductPortfolioTests\obj\Debug\netcoreapp2.2\ProductPortfolioTests.csproj.CoreCompileInputs.cache
+C:\Users\nlangridge\source\repos\ProductPortfolioTests\obj\Debug\netcoreapp2.2\ProductPortfolioTests.AssemblyInfoInputs.cache
+C:\Users\nlangridge\source\repos\ProductPortfolioTests\obj\Debug\netcoreapp2.2\ProductPortfolioTests.AssemblyInfo.cs
+C:\Users\nlangridge\source\repos\ProductPortfolioTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\nlangridge\source\repos\ProductPortfolioTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\nlangridge\source\repos\ProductPortfolioTests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\nlangridge\source\repos\ProductPortfolioTests\bin\Debug\netcoreapp2.2\ProductPortfolioTests.deps.json
+C:\Users\nlangridge\source\repos\ProductPortfolioTests\bin\Debug\netcoreapp2.2\ProductPortfolioTests.runtimeconfig.json
+C:\Users\nlangridge\source\repos\ProductPortfolioTests\bin\Debug\netcoreapp2.2\ProductPortfolioTests.runtimeconfig.dev.json
+C:\Users\nlangridge\source\repos\ProductPortfolioTests\bin\Debug\netcoreapp2.2\ProductPortfolioTests.dll
+C:\Users\nlangridge\source\repos\ProductPortfolioTests\bin\Debug\netcoreapp2.2\ProductPortfolioTests.pdb
+C:\Users\nlangridge\source\repos\ProductPortfolioTests\bin\Debug\netcoreapp2.2\ProductPortfolio.dll
+C:\Users\nlangridge\source\repos\ProductPortfolioTests\bin\Debug\netcoreapp2.2\ProductPortfolio.pdb
+C:\Users\nlangridge\source\repos\ProductPortfolioTests\obj\Debug\netcoreapp2.2\ProductPortfolioTests.csproj.CopyComplete
+C:\Users\nlangridge\source\repos\ProductPortfolioTests\obj\Debug\netcoreapp2.2\ProductPortfolioTests.dll
+C:\Users\nlangridge\source\repos\ProductPortfolioTests\obj\Debug\netcoreapp2.2\ProductPortfolioTests.pdb
