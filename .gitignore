@@ -330,3 +330,9 @@ ASALocalRun/
 .mfractor/
 
 ProductPortfolio/ProductPortfolio/obj/
+
+ProductPortfolio/ProductPortfolio/bin/Debug/netcoreapp2\.2/
+
+ProductPortfolio/ProductPortfolioTests/bin/Debug/netcoreapp2\.2/
+
+ProductPortfolio/ProductPortfolioTests/obj/Debug/netcoreapp2\.2/
