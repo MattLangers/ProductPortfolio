@@ -6,6 +6,7 @@ using System.Text;
 
 namespace ProductPortfolioTests.MockClasses
 {
+    /* this is not a mock, its a concrete implementation */
     public class MockProductController : IProducts
     {
         private readonly List<Product> _products;
@@ -21,7 +22,7 @@ namespace ProductPortfolioTests.MockClasses
             };
         }
 
-        List<Product> IProducts.GetAllProducts()
+        IList<Product> IProducts.GetAllProducts()
         {
             return _products;
         }

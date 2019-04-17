@@ -19,7 +19,7 @@ namespace ProductPortfolio.Controllers
 
         // GET api/products
         [HttpGet]        
-        public List<Product> Get()
+        public IList<Product> Get()
         {
             return _service.GetAllProducts();
         }

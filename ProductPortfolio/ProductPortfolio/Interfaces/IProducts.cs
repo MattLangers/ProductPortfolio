@@ -5,7 +5,7 @@ namespace ProductPortfolio.Interfaces
 {
     public interface IProducts
     {
-        List<Product> GetAllProducts();
+        IList<Product> GetAllProducts();
         Product GetById(string id);
     }
 }
