@@ -6,7 +6,7 @@ namespace ProductPortfolio.Service
 {
     public class ProductsService : IProducts
     {
-        List<Product> IProducts.GetAllProducts()
+        IList<Product> IProducts.GetAllProducts()
         {
             // Define call into Data Access Layer to retrieve all products.
             // Dummy implementation

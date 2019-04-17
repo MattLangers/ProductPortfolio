@@ -21,7 +21,7 @@ namespace ProductPortfolioTests.MockClasses
             };
         }
 
-        List<Product> IProducts.GetAllProducts()
+        IList<Product> IProducts.GetAllProducts()
         {
             return _products;
         }
